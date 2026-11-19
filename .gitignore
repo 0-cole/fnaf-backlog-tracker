@@ -1,3 +1,6 @@
-target/
-fnaf_backlog_state.json
+target/*
+!target/release/
+target/release/*
+!target/release/fnaf-backlog-tracker.exe
+!target/release/fnaf_backlog_state.json
 *.bak

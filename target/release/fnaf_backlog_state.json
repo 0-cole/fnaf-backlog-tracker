@@ -1,0 +1,2011 @@
+{
+  "games": [
+    {
+      "id": "in-real-time",
+      "title": "FNAF: In Real Time",
+      "creator": "Taaryn",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "FusionZGamer",
+        "Dawko"
+      ],
+      "hook": "Replaces static camera cuts with live 3D CCTV pathfinding—animatronics physically walk through hallways in real time.",
+      "status": "Todo",
+      "priority": true,
+      "priority_rank": 6,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "tealerland",
+      "title": "Tealerland",
+      "creator": "NeeTroo",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "Dawko",
+        "FusionZGamer"
+      ],
+      "hook": "Open maintenance booth with stealth peeking, dynamic lighting, and directional footstep tracking instead of doors.",
+      "status": "Todo",
+      "priority": true,
+      "priority_rank": 7,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "bloody-nights",
+      "title": "The Return to Bloody Nights",
+      "creator": "Kazovsky",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Gritty 90s pre-rendered CGI aesthetic with voiced lore, cutscenes, and brutal modern multi-system defense.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "tyke-and-sons",
+      "title": "Tyke and Sons Lumber Co.",
+      "creator": "Mixlas",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "Dawko"
+      ],
+      "hook": "Daytime Chipper & Sons lumber tycoon / quest RPG that flips into surreal midnight animatronic horror.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "bite-at-freddys",
+      "title": "A Bite at Freddy's",
+      "creator": "Garrett McKay",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "FusionZGamer",
+        "Dawko"
+      ],
+      "hook": "Automated kitchen conveyor logistics, food order pipelines, and machine repairs while dodging animatronics.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "left-to-rot",
+      "title": "Fredbear and Friends: Left to Rot",
+      "creator": "Garrett McKay",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "Dawko",
+        "FusionZGamer"
+      ],
+      "hook": "Grieving father sneaking room-to-room through decaying Fredbear's sub-levels guided only by a PI over radio.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "lost-ones-remastered",
+      "title": "The Lost Ones: Remastered",
+      "creator": "Malrat_",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "FusionZGamer"
+      ],
+      "hook": "Visceral body horror featuring skeletal biomechanical monsters, tight spotlight management, and suffocating sound design.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "final-nights-4",
+      "title": "Final Nights 4: Fates Entwined",
+      "creator": "JeliLiam",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Dual-timeline UE4 investigative horror (1973 Henry & 2017 investigator) blending point-and-click sleuthing with survival.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "porkchops-adventure",
+      "title": "Porkchop's Adventure",
+      "creator": "Phisnom",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Favorites",
+      "youtubers": [
+        "Dawko",
+        "Markiplier"
+      ],
+      "hook": "Meta-horror puzzle hybrid: trapped in a broken elevator playing an in-world Game Boy platformer that wakes threats around you.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fnaf-1-rewritten",
+      "title": "FNAF 1 - REWRITTEN -",
+      "creator": "Dot-e",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game",
+      "category": "Rewritten",
+      "youtubers": [
+        "FusionZGamer"
+      ],
+      "hook": "Dot-e's sister entry to '87 Rewritten—overhauled Foxy/camera logic, grounded 90s dread, and a Night 5 Fredbear sequence.",
+      "status": "Todo",
+      "priority": true,
+      "priority_rank": 1,
+      "is_demo": false,
+      "direct_url": "https://dot-e26.itch.io/fnaf-rewritten"
+    },
+    {
+      "id": "forgotten-at-fredbears",
+      "title": "Forgotten At Fredbear's",
+      "creator": "Jacorn & Team",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game (Jan 2026)",
+      "category": "Rewritten",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan",
+        "FusionZGamer",
+        "RyeToast",
+        "3FS (OST)"
+      ],
+      "hook": "Hyper-realistic Fredbear's Diner shifts + mandatory post-shift vent radar repairs, stocking, fixing Fredbear, and 6-phase Basement boss.",
+      "status": "Todo",
+      "priority": true,
+      "priority_rank": 2,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/Forgotten/686230"
+    },
+    {
+      "id": "freddys-reanimated",
+      "title": "Freddy's: Reanimated",
+      "creator": "Shady Stork Games",
+      "platform": "Game Jolt",
+      "release": "Full Game (Mar 2025)",
+      "category": "Rewritten",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Godot overhaul directly inspired by Graveyard Shift at Freddy's—Backstage Foxy cage stalling & Post-Night Storage terminal tasks.",
+      "status": "Played",
+      "priority": true,
+      "priority_rank": 1,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "next-week-at-freddys",
+      "title": "Next Week at Freddy's",
+      "creator": "rynfox",
+      "platform": "Game Jolt",
+      "release": "Full Game (Dec 2024)",
+      "category": "Rewritten",
+      "youtubers": [
+        "FusionZGamer"
+      ],
+      "hook": "UE5 FNAF 1 remake putting facility controls on a panel behind your desk, forcing you to turn your back on incoming halls.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "knocking-on-heavens-door",
+      "title": "Knocking on Heaven's Door",
+      "creator": "SoggySoup & _CyberSol_",
+      "platform": "Game Jolt",
+      "release": "Full Game (Jul 2024)",
+      "category": "Rewritten",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Reimagines FNAF 4 inside a hospital room with a dynamic Stress Meter, bedside/art checks, and Spacebar QTEs against Foxy.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "animatronic-memories",
+      "title": "Animatronic Memories",
+      "creator": "Inksstuff",
+      "platform": "Game Jolt",
+      "release": "Full Game (Feb 2025)",
+      "category": "Rewritten",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Alternate-universe FNAF 1 pairing fuse/shutter defense with interactive Parts & Service repairs and a cinematic True Ending.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "cec-rebooted",
+      "title": "Five Nights at Chuck E. Cheese's: Rebooted",
+      "creator": "Radiance Team",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Rewritten",
+      "youtubers": [],
+      "hook": "Built by the Oblitus Casa team—oppressively shadowed 1979 Pizza Time Theatre driven by vocal cues & Aggressive mode.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fnacecr/563650"
+    },
+    {
+      "id": "fnac-remastered",
+      "title": "Five Nights at Candy's Remastered",
+      "creator": "Emil 'Ace' Macko",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Rewritten",
+      "youtubers": [
+        "Markiplier",
+        "Dawko",
+        "8-BitRyan",
+        "AstralSpiff"
+      ],
+      "hook": "Ground-up Blender Cycles overhaul of FNaC 1 with pitch-black rooms, night-vision cam toggling, and per-door power drain.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fnacr/426659"
+    },
+    {
+      "id": "fnac-2",
+      "title": "Five Nights at Candy's 2",
+      "creator": "Emil 'Ace' Macko",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Rewritten",
+      "youtubers": [
+        "Markiplier",
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Ditches office doors completely for a condemned factory central corridor and ringing distant phones on cameras to lure threats.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "blood-and-gears",
+      "title": "Five Nights at Freddy's: BLOOD & GEARS",
+      "creator": "JDBRYANT / Bloody Fungi",
+      "platform": "Game Jolt & itch.io",
+      "release": "Night Shift Demo (Jun 2026)",
+      "category": "Rewritten",
+      "youtubers": [
+        "RyeToast"
+      ],
+      "hook": "Ground-up Godot reimagining with a Tension Meter, decaying 2003 Showbiz-style animatronics, and overtime minigames.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": "https://jdbryantdev.itch.io/fnafbag"
+    },
+    {
+      "id": "i-made-this-for-you",
+      "title": "FNAF 1 REMAKE (I Made This For You)",
+      "creator": "Marco Antonio",
+      "platform": "Game Jolt",
+      "release": "Full Game (Apr 2025)",
+      "category": "Rewritten",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Disguises itself as a sketchy malware/bootleg FNAF download before mutating into fourth-wall psychological horror.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/imadethisforyou/981759"
+    },
+    {
+      "id": "july-5th-archive",
+      "title": "Night Watch at Freddie's: The July 5th Archive",
+      "creator": "avocadodreams & GhostyAsh",
+      "platform": "itch.io",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [],
+      "hook": "Made by the creator of Graveyard Shift at Freddy's! Inverted-logic lost build with flipped maps and shut-by-default doors.",
+      "status": "Dropped",
+      "priority": true,
+      "priority_rank": 1,
+      "is_demo": false,
+      "direct_url": "https://avocadodreams.itch.io/nwafjuly5th"
+    },
+    {
+      "id": "tubbyland-archives",
+      "title": "The TubbyLand Archives - ACT 1",
+      "creator": "Clicky Code, avocadodreams & Pigsty55",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "PlainTrace"
+      ],
+      "hook": "From GSaF's creator: wet, rotting faux-fur Tubbybots stretched over bone-like frames tracked via strict Intercom audio lures.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "remnants-of-tubbyland",
+      "title": "The Remnants of Tubby-Land",
+      "creator": "avocadodreams (GhostyDreams)",
+      "platform": "itch.io",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "TheGameSalmon"
+      ],
+      "hook": "FNaTI-inspired abandoned daycare horror with shifting-view mechanics, contextual mask defense, and rapid rushes.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "banshee",
+      "title": "Banshee (Fazbear's Pizzeria Tycoon!)",
+      "creator": "KimarZuru",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game (Jul 2025)",
+      "category": "Gritty",
+      "youtubers": [
+        "UhYeah"
+      ],
+      "hook": "Bleak anti-capitalist FFPS overhaul with bruised body-horror monsters, risk-reward salvage, and a save-deleting Drowned Ending.",
+      "status": "Todo",
+      "priority": true,
+      "priority_rank": 3,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "together-again",
+      "title": "Together Again: A 'Lake's Funland' Story",
+      "creator": "Sir Memphisto / Heisenmorg",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "PlainTrace",
+        "UhYeah"
+      ],
+      "hook": "1994 Montreal missing-children thriller with an Exposure & Panic Bar requiring pills to stop cursor shake + town investigations.",
+      "status": "Todo",
+      "priority": true,
+      "priority_rank": 4,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "the-magic-hour",
+      "title": "THE MAGIC HOUR: A 'Together Again' Sequel",
+      "creator": "Sir Memphisto / Heisenmorg",
+      "platform": "Game Jolt",
+      "release": "Full Game (Mar 2026)",
+      "category": "Gritty",
+      "youtubers": [],
+      "hook": "Dark 20-years-later sequel exploring grounded human tragedy, domestic abuse, voiced cutscenes, and original side-tasks.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "dormitabis-dx",
+      "title": "Dormitabis: DX",
+      "creator": "An Aberrant Team / BitHell",
+      "platform": "Game Jolt",
+      "release": "Full Game (Sep 2026)",
+      "category": "Gritty",
+      "youtubers": [
+        "Pastra (Orig)",
+        "UhYeah (Orig)"
+      ],
+      "hook": "Crash-free 64-bit recode preserving the grotesque flesh-and-rot Purgatory gauntlet while stripping out the original creator's awful writing.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fnati-2020",
+      "title": "Five Nights at Treasure Island (2020 Official)",
+      "creator": "Radiance Team",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "Pastra",
+        "PlainTrace"
+      ],
+      "hook": "Pastra's #1 favorite fangame—distinct predecessor to Oblitus Casa with camera-disabling, light-cutting, and freeze-still stealth.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/treasureislandofficial/222994"
+    },
+    {
+      "id": "project-readjusted-3",
+      "title": "Project Readjusted 3 (and Trilogy 1-3)",
+      "creator": "Mechlus",
+      "platform": "Game Jolt",
+      "release": "Full Trilogy",
+      "category": "Gritty",
+      "youtubers": [],
+      "hook": "GSaF's closest underground peer—CRT filters & industrial body-horror delivering patient supplies via conveyor using a single glowstick.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/readjusted3game/523997"
+    },
+    {
+      "id": "web-of-cogs-and-oil",
+      "title": "The Web of Cogs and Oil",
+      "creator": "ViTCH",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [],
+      "hook": "Four bleak mechanical/occult vignettes: ceiling-light cranking + thermostat, jack-in-the-box decoys, expiring candles, and taser defense.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/CogsAndOil/444715"
+    },
+    {
+      "id": "showmans-awakening",
+      "title": "SHOWMAN'S: The Awakening (incl. Phobia)",
+      "creator": "Iz (@itsizsgames)",
+      "platform": "Game Jolt",
+      "release": "Full Game (May 2025)",
+      "category": "Gritty",
+      "youtubers": [
+        "UhYeah"
+      ],
+      "hook": "Childhood-trauma warehouse horror featuring a Night 6 role-reversal where the evil Showman mask brainwashes a guard to hunt you.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/phobiatheawakening/641911"
+    },
+    {
+      "id": "freddys-house",
+      "title": "Freddys_House (Freddy's House)",
+      "creator": "CreepyGlitch",
+      "platform": "Game Jolt",
+      "release": "Full Game (Nov 2026)",
+      "category": "Gritty",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Photorealistic VHS domestic horror blending WASD movement, audio door checks, corner music box, and staring down Foxy on a CRT TV.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fnaf-underground",
+      "title": "FNaF: Underground",
+      "creator": "D3m3nt0r2019",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [],
+      "hook": "FNaF VHS-inspired subterranean salvage bunker beneath a Utah forest combining office defense with post-shift maintenance.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fivenightsatfreddysunderground/626705"
+    },
+    {
+      "id": "fazbear-storage",
+      "title": "Fazbear Entertainment: Storage",
+      "creator": "DaMikel",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Grimy industrial warehouse between FNAF 1 & 3 where Mangle destroys camera cooling fans to trigger thermal blackouts.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/FazEntStorage/439239"
+    },
+    {
+      "id": "mac-tonight-remastered",
+      "title": "Five Nights with Mac Tonight: Remastered & 2",
+      "creator": "Malrat_",
+      "platform": "Game Jolt",
+      "release": "Full Games",
+      "category": "Gritty",
+      "youtubers": [],
+      "hook": "From the creator of The Lost Ones: shadowed 80s fast-food horror with terminal sabotage and water-flush countermeasures.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/Mac-Tonight-Remastered/306810"
+    },
+    {
+      "id": "final-nights-3",
+      "title": "Final Nights 3: Nightmares Awaken",
+      "creator": "JeliLiam",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "UE4 partial 3D free-roam in a dark hospital room anchored by a sleep-progression mechanic against elongated Reaper monsters.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fnaf-beta-series",
+      "title": "Five Nights at Freddy's [BETA] Series (1-3)",
+      "creator": "FNAF Beta Stuff Team",
+      "platform": "itch.io",
+      "release": "Full Games",
+      "category": "Gritty",
+      "youtubers": [
+        "UhYeah"
+      ],
+      "hook": "Faux-historical lost prototype / alpha reconstructions full of corrupted placeholder assets and uncanny off-kilter AI.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "bondees-barnyard",
+      "title": "Bondee's Barnyard: Safety Violation",
+      "creator": "Otis Le PoOtis",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "AstralSpiff",
+        "Dawko",
+        "8-BitRyan",
+        "PlainTrace",
+        "FusionZGamer",
+        "Markiplier"
+      ],
+      "hook": "Hide inside Kou the Cow's animatronic suit—open jaws to manage oxygen while evading bots and a guard who electrocutes you on camera.",
+      "status": "Todo",
+      "priority": true,
+      "priority_rank": 5,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/BondeesBarnyeardSV/691888"
+    },
+    {
+      "id": "frickbears-3",
+      "title": "Five Nights at Frickbear's 3 (+ Four Layers Down)",
+      "creator": "SpookyRick",
+      "platform": "Game Jolt",
+      "release": "Full Game (Mar 2026)",
+      "category": "Subversive",
+      "youtubers": [
+        "AstralSpiff",
+        "Dawko",
+        "8-BitRyan",
+        "RyeToast",
+        "TheBones5"
+      ],
+      "hook": "Deceptively goofy wrapper hiding 40-80+ threats, 3D free-roam salvage segments, and visceral paths including the Blood Route.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "tnaf-new-destiny",
+      "title": "Those Nights at Fredbear's: New Destiny",
+      "creator": "Rofnay",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game (Jun 2024)",
+      "category": "Subversive",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Finishes Nikson's cancelled 2015 free-roam game: high-speed first-person sprint/crouch/flashlight stealth playing as William Afton.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "tnar",
+      "title": "Those Nights at Rachel's",
+      "creator": "Nikson",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Markiplier",
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Rotatable 3D office where you lean, hide under the desk, or physically sprint backward into a secondary utility room.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "eddie-and-the-misfits",
+      "title": "Eddie and the Misfits",
+      "creator": "Ramenov & Tuparman",
+      "platform": "Game Jolt",
+      "release": "Full Game (Archives)",
+      "category": "Subversive",
+      "youtubers": [
+        "PlainTrace"
+      ],
+      "hook": "Point-and-click free-roam through a decayed theater involving lock-picking, circuit rewiring, and post-night dark maze tasks.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "killer-in-purple-2",
+      "title": "Killer in Purple 2 (and 1)",
+      "creator": "Goldie Entertainment",
+      "platform": "Game Jolt",
+      "release": "Full Games",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Open-ended William Afton simulator: build a pizzeria by day, lure/murder kids and hide bodies, then survive inside it at night.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fnaw-3",
+      "title": "Five Nights at Wario's 3",
+      "creator": "WwwWario",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "AstralSpiff",
+        "Dawko"
+      ],
+      "hook": "Nightly mansion room-hopping where every shift moves you to a different room with totally new rules + Daytime Quest Mode.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fnaw3/185970"
+    },
+    {
+      "id": "fnaw-4",
+      "title": "Five Nights at Wario's 4",
+      "creator": "WwwWario",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Dawko"
+      ],
+      "hook": "Replaces security cameras with TV-remote channel surfing inside a bleak, unsettling mansion setting.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://wwwwario-official.itch.io/fnaw-4"
+    },
+    {
+      "id": "five-shows-at-warios",
+      "title": "Five Shows at Wario's: Director's Cut",
+      "creator": "WwwWario",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Turns survival into 5 surreal risk-reward theater trials to earn Lives, with strict Entity 01 punishments for quitting mid-show.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fsaw/562722"
+    },
+    {
+      "id": "jolly-3",
+      "title": "JOLLY 3: Chapter 1 & Chapter 2",
+      "creator": "IvanG",
+      "platform": "Game Jolt",
+      "release": "Full Games",
+      "category": "Subversive",
+      "youtubers": [
+        "Markiplier",
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Chapter 2 drops you into an underground bunker balancing Radar/Jammer/Maintenance instability plus dark-house listening sequences.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "onaf-3",
+      "title": "One Night at Flumpty's 3",
+      "creator": "Jonochrome",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Replaces battery power with an Exposure Meter and Room Temperature lava furnace before exploding into Flumpty Night.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "popgoes-arcade",
+      "title": "POPGOES Arcade",
+      "creator": "Kane Carter & Team",
+      "platform": "Steam",
+      "release": "Full Game ($4.99)",
+      "category": "Subversive",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan",
+        "AstralSpiff"
+      ],
+      "hook": "Reinvents FNAF as a 2D top-down retro fantasy RPG / dungeon crawler with timed-dodge combat and upgrade shops.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "mypopgoes",
+      "title": "myPOPGOES",
+      "creator": "Kane Carter & Team",
+      "platform": "Steam",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Commercial LCD virtual-pet care game paired with 3-button arcade minigames and hidden POPGOES lore.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "chicas-party-world",
+      "title": "Chica's Party World: REBAKED",
+      "creator": "PoisonousPastels & avocadodreams",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "AstralSpiff",
+        "Dawko"
+      ],
+      "hook": "Features an N64-style pre-night free-roam chore phase playing as maintenance robot Security.0Sv before shifts.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "psx-fnaf",
+      "title": "PSX Five Nights at Freddy's",
+      "creator": "CoveiroDev",
+      "platform": "itch.io",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Third-person PS1 survival horror with classic Resident Evil tank controls and fixed cameras hunting power cells.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://coveirodev.itch.io/psx-fnaf"
+    },
+    {
+      "id": "happys-humble-burger-barn",
+      "title": "Happy's Humble Burger Barn",
+      "creator": "Scythe Dev Team",
+      "platform": "itch.io",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Original free PS1-styled late-night fast-food grill & order simulator warping into surreal mascot horror.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://scythedevteam.itch.io/happys-humble-burger-barn"
+    },
+    {
+      "id": "friedrichs",
+      "title": "Five Nights at Friedrich's",
+      "creator": "ryon",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game (Jun 2025)",
+      "category": "Subversive",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Chaotic multitasking: cook pizzas mid-shift, read in-game service manuals, and fire deadly lasers from the office.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fredbear-998433",
+      "title": "Fredbear Game Number 998433",
+      "creator": "Cole",
+      "platform": "Game Jolt",
+      "release": "Full Game (Apr 2026)",
+      "category": "Subversive",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Opens as a polished free-roam Fredbear's survival game before morphing into keypad/vinyl puzzles and glitch meta-horror.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fredbeargamenumber99999999/1052716"
+    },
+    {
+      "id": "super-fnaf",
+      "title": "Super FNaF",
+      "creator": "LyllyDev",
+      "platform": "Game Jolt",
+      "release": "Full Game (Archives)",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Beloved 16-bit 2D narrative RPG forcing you to walk straight through the Missing Children's Incident from the victims' POV.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "witching-hour",
+      "title": "The Witching Hour - FNAF Freeroam",
+      "creator": "Urban Lamb Studios",
+      "platform": "itch.io",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Bleak 3D free-roam paranormal containment assessment across the stripped ruins of the original pizzeria.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://urban-lamb-studios.itch.io/the-witching-hour"
+    },
+    {
+      "id": "crimson-animatronic",
+      "title": "CRIMSON ANIMATRONIC",
+      "creator": "GabilvaStudios",
+      "platform": "itch.io",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Extreme analog/exploitation mascot-horror wildcard built around choice-driven survival and frantic QTEs.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "lost-location-cn",
+      "title": "Lost Location Custom Night",
+      "creator": "KeplerFNAF",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "TheBones5"
+      ],
+      "hook": "Brutal SNES/Game Boy-styled zero-RNG max-mode tactical gauntlet.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "clearing-your-name",
+      "title": "Clearing Your Name",
+      "creator": "DaneAsmund",
+      "platform": "itch.io",
+      "release": "Browser Playable",
+      "category": "Subversive",
+      "youtubers": [
+        "NotRealName NotAtAll"
+      ],
+      "hook": "Bite-sized, eerie Bitsy psychological horror thriller.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "aftereffect-dx",
+      "title": "AFTEREFFECT DX: Director's Cut",
+      "creator": "SpleeTeam",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Danganronpa / Persona-styled psychological visual novel and point-and-click thriller centered on Vanessa/Vanny.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fnaf-ps1-homebrew",
+      "title": "Five Night at Freddy's on the Playstation 1",
+      "creator": "Soeiz",
+      "platform": "Game Jolt & itch.io",
+      "release": "Playable PS1 ROM",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Authentic PlayStation 1 homebrew port running on PS1 emulators/hardware with an exclusive 2-player mode.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "freddys-pizza-delivery",
+      "title": "Freddy's Pizza Delivery (Fangame)",
+      "creator": "Aaron Carothers",
+      "platform": "itch.io",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Scrappy 90s late-night pizza delivery shift starting at 11:30 PM alongside restored animatronics.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "melodies-ep1",
+      "title": "Melodies: Episode One",
+      "creator": "UncleElement",
+      "platform": "Game Jolt",
+      "release": "Playable Demo (Apr 2026)",
+      "category": "Demos",
+      "youtubers": [
+        "3FS",
+        "FusionZGamer"
+      ],
+      "hook": "Scroll-wheel eyelid peeking, Breath Meter timed breathing, and taser defense against Fredbear.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": null
+    },
+    {
+      "id": "fazbear-facility-prologue",
+      "title": "The Fazbear Facility: Prologue",
+      "creator": "Phantron",
+      "platform": "Game Jolt & itch.io",
+      "release": "Prologue Demo",
+      "category": "Demos",
+      "youtubers": [
+        "FusionZGamer"
+      ],
+      "hook": "CGI cutscenes, VHS training tapes, flashlight office defense, and post-night operational tasks.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": null
+    },
+    {
+      "id": "aftonbuilt",
+      "title": "Aftonbuilt",
+      "creator": "JeliLiam",
+      "platform": "Game Jolt",
+      "release": "~40-min Pre-Alpha Pitch",
+      "category": "Demos",
+      "youtubers": [
+        "Dawko"
+      ],
+      "hook": "Scrapped Fanverse pitch featuring handmade scoopers, spotlights, traps, and wire-repair tasks helping rebuild William Afton.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": "https://gamejolt.com/games/Aftonbuilt/708093"
+    },
+    {
+      "id": "dark-hours-at-freddys",
+      "title": "Dark Hours At Freddy's",
+      "creator": "Mr-Yellow",
+      "platform": "Game Jolt",
+      "release": "Early Access (Jan 2026)",
+      "category": "Demos",
+      "youtubers": [],
+      "hook": "Unreal Engine free-roam with coffee-fatigue runs and real PC microphone noise detection.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": "https://gamejolt.com/games/DarkHoursAtFreddys/1042530"
+    },
+    {
+      "id": "claustrophobic-nights",
+      "title": "Claustrophobic Nights",
+      "creator": "Hunter Allen",
+      "platform": "Game Jolt & itch.io",
+      "release": "Public Alpha / PC Remaster",
+      "category": "Demos",
+      "youtubers": [
+        "3FS"
+      ],
+      "hook": "Tight vent maze crawling, generator puzzle repairs, saferoom recharging, and co-op proximity chat.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": "https://hunterallen.itch.io/claustrophobic-nights"
+    },
+    {
+      "id": "the-flipside",
+      "title": "Five Nights at Freddy's: THE FLIPSIDE",
+      "creator": "The_Blue_Hatted",
+      "platform": "Game Jolt & itch.io",
+      "release": "Demo 1 (Sep 2026)",
+      "category": "Demos",
+      "youtubers": [
+        "8-BitRyan"
+      ],
+      "hook": "Undertale / EarthBound-inspired RPG set in limbo following Freddy Fazbear's Pizzeria Simulator.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": null
+    },
+    {
+      "id": "tnaf-remake-salamance",
+      "title": "Those Nights at Fredbear's Remake",
+      "creator": "Salamance",
+      "platform": "Game Jolt",
+      "release": "6AM Mode Demo (Aug 2025)",
+      "category": "Demos",
+      "youtubers": [
+        "8-BitRyan",
+        "AstralSpiff"
+      ],
+      "hook": "High-speed 3D free-roam stealth overhaul of the classic Fredbear pursuit concept.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": null
+    },
+    {
+      "id": "sinister-turmoil-sewers",
+      "title": "Sinister Turmoil: Sewers",
+      "creator": "ANGUs-GAMEs & TheSparky556",
+      "platform": "Game Jolt",
+      "release": "Legacy 2020 Demo",
+      "category": "Demos",
+      "youtubers": [
+        "8-BitRyan",
+        "FusionZGamer"
+      ],
+      "hook": "First-person sewer stealth hunted by an AI Mangle/Foxy prototype.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": "https://gamejolt.com/games/sinister-turmoil-sewers/1101859"
+    },
+    {
+      "id": "87-rewritten",
+      "title": "FNAF 2: '87 Rewritten",
+      "creator": "Dot-e",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game",
+      "category": "Rewritten",
+      "youtubers": [
+        "FusionZGamer",
+        "Dawko"
+      ],
+      "hook": "Your all-time favorite FNAF 2 reimagining—fluid animation, overhauled mechanics, and custom charm.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/1987/777511"
+    },
+    {
+      "id": "gsaf",
+      "title": "Graveyard Shift at Freddy's",
+      "creator": "avocadodreams & Team",
+      "platform": "Game Jolt & itch.io",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "UhYeah",
+        "PlainTrace"
+      ],
+      "hook": "Uncanny psychological analog-horror reimagining set in Freddybear's Eatery and Fun.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/gsaf/828305"
+    },
+    {
+      "id": "jrs",
+      "title": "JR's",
+      "creator": "The JR's Team",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan",
+        "FusionZGamer"
+      ],
+      "hook": "Paranormal ghost-hunting investigation to deduce which animatronic is possessed.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "playtime-with-percy",
+      "title": "Playtime with Percy",
+      "creator": "FazieFunbear",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Dawko",
+        "8-BitRyan",
+        "UhYeah"
+      ],
+      "hook": "Task-based playhouse survival managing a Tamagotchi-style virtual pet alongside aggressive threats.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "glitched-attraction",
+      "title": "The Glitched Attraction",
+      "creator": "PowerLine Studios",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Dawko",
+        "FusionZGamer"
+      ],
+      "hook": "First-person Unreal Engine escape-room puzzle horror across iconic Fazbear eras.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "shadow-over-freddys",
+      "title": "A Shadow Over Freddy's",
+      "creator": "Phisnom",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "Dawko"
+      ],
+      "hook": "Monochrome point-and-click psychological exploration through pitch-black Freddy's ruins with a lighter.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "oblitus-casa",
+      "title": "Oblitus Casa",
+      "creator": "Radiance Team",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "Dawko",
+        "Pastra"
+      ],
+      "hook": "Surreal cosmic/analog horror sequel to Five Nights at Treasure Island.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "tjoc-sm",
+      "title": "The Joy of Creation: Story Mode (TJOC)",
+      "creator": "Nikson",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Markiplier",
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Iconic 3D free-roam horror across burning and pitch-black household rooms.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fnac-3",
+      "title": "Five Nights at Candy's 3",
+      "creator": "Emil 'Ace' Macko",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [
+        "Markiplier",
+        "Dawko",
+        "8-BitRyan"
+      ],
+      "hook": "Psychological bedroom defense using flashlight mind-games and cassette tape audio cues.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "scp-endurance",
+      "title": "SCP: The Endurance",
+      "creator": "Elefelen",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [
+        "Markiplier"
+      ],
+      "hook": "SCP Foundation containment breach survival with tesla gates, blast doors, and FNAF-style camera defense.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/scp-the-endurance/358318"
+    },
+    {
+      "id": "dsaf-trio",
+      "title": "Dayshift at Freddy's 1, 2, & 3",
+      "creator": "DirectDoggo",
+      "platform": "Game Jolt",
+      "release": "Full Trilogy",
+      "category": "Subversive",
+      "youtubers": [
+        "Dawko"
+      ],
+      "hook": "Absurd dark-comedy RPG trilogy that spirals into bleak existential tragedy.",
+      "status": "Played",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "post-shift-2",
+      "title": "Post-Shift 2",
+      "creator": "Rjac25",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Multi-room facility maintenance (skipped due to negative mechanical reputation).",
+      "status": "Dropped",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "babys-nightmare-circus",
+      "title": "Baby's Nightmare Circus",
+      "creator": "Mixlas",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Gritty",
+      "youtubers": [],
+      "hook": "360-degree pitch-black circus tent survival (not interested).",
+      "status": "Dropped",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/nightmarecircusgame/267068"
+    },
+    {
+      "id": "1987-bruhboi",
+      "title": "1 9 8 7",
+      "creator": "Bruh-Boi",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Upcoming retro-gritty 1987-era FNAF fangame featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/1987/623282"
+    },
+    {
+      "id": "followed-at-freddys",
+      "title": "Followed at Freddy's",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Official sequel to Forgotten at Fredbear's, featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/FollowedAtFreddys/1046211"
+    },
+    {
+      "id": "theres-a-funny-feeling-in-my-tummy",
+      "title": "There's a Funny Feeling in my Tummy!",
+      "creator": "SandwichJWare",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Eerie VHS-styled animatronic horror featured in Fangame Direct.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/TafFimT/1062824"
+    },
+    {
+      "id": "final-hours-1983",
+      "title": "Final Hours: 1983",
+      "creator": "Aidan Kelley",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "1983-set psychological FNAF fangame featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fh83/447166"
+    },
+    {
+      "id": "unwanted-guests",
+      "title": "Unwanted Guests",
+      "creator": "Br3dB3ar",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Home-intrusion animatronic horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/UnwantedGuests/961467"
+    },
+    {
+      "id": "fnaf-spiral",
+      "title": "Five Nights at Freddy's: SPIRAL",
+      "creator": "Mitnick",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Unofficial Secret of the Mimic / Ruin-era maintenance horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/rundown/832947"
+    },
+    {
+      "id": "twisters-terror",
+      "title": "Twister's Terror",
+      "creator": "pleezylol",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Graveyard shift at Twister's Pizza Palace two weeks before grand opening, featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/Twisters/773601"
+    },
+    {
+      "id": "spikes-ahoy",
+      "title": "Spike's Ahoy!",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Nautical animatronic horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/spikesahoy/841060"
+    },
+    {
+      "id": "the-agony-facilities",
+      "title": "The Agony Facilities",
+      "creator": "ARAYAENTERTAINMENT",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Reimagined, expanded Sister Location horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/TheAgonyFacilities/1019249"
+    },
+    {
+      "id": "iron-fear",
+      "title": "Five Nights At Freddy's - IRON FEAR",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Industrial-horror FNAF fangame featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/FNaF-gme/917911"
+    },
+    {
+      "id": "one-week-at-flumptys-fan-made",
+      "title": "One Week at Flumpty's Fan-Made",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Fan-made continuation of One Night at Flumpty's featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/owaf/166765"
+    },
+    {
+      "id": "oil-runs-thick",
+      "title": "Oil Runs Thick",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Gritty industrial animatronic horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/OilRunsThick/917179"
+    },
+    {
+      "id": "engraved-establishment",
+      "title": "Engraved Establishment",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Atmospheric FNAF fangame featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/engraved-establishment/904004"
+    },
+    {
+      "id": "starlit-shift-at-neptoons",
+      "title": "Starlit Shift at Neptoon's",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Stylized retro shift-survival fangame featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/starlit-night-at-neptoons/776535"
+    },
+    {
+      "id": "snowy-summit",
+      "title": "Snowy Summit",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Winter-set FNAF fangame featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "abandoned-discovery-island-fd3",
+      "title": "Abandoned: Discovery Island (FD3)",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Reimagined Treasure Island horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/abandoneddiscoveryisland/676994"
+    },
+    {
+      "id": "fnaf-cleanup-crew",
+      "title": "Five Nights at Freddy's: Cleanup Crew",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "After-hours facility cleanup horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fnafcleanupcrew/652841"
+    },
+    {
+      "id": "freddys-pizza-closure",
+      "title": "Freddy's Pizza Closure (Untitled Project)",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Upcoming Freddy's closure horror project showcased in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "project-freddy",
+      "title": "Project Freddy",
+      "creator": "Buby",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Complete reimagining and remake of the 2018 horror fangame, featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/ProjectFreddy/1048780"
+    },
+    {
+      "id": "fnac-4-fan-concept",
+      "title": "Five Nights at Candy's 4 Fan Concept",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Fan-made FNaC 4 concept showcase featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "torment-below-disney",
+      "title": "Torment Below Disney",
+      "creator": "Kry",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Reimagining of Nightmare Before Disney (FNaTI) with overhauled visuals, featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/enbd/877490"
+    },
+    {
+      "id": "fnaf-faulty-factory",
+      "title": "Five Nights at Freddy's: Faulty Factory",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Factory-set FNAF survival horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "untitled-technician-game",
+      "title": "Untitled Technician Game",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Technician-focused FNAF horror project featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "porkchops-wonder-farm",
+      "title": "Porkchop's Wonder Farm",
+      "creator": "Chicho",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Unofficial Porkchop's series prequel set before Porkchop's Adventure, featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/PWF/766596"
+    },
+    {
+      "id": "bondis-barnyard-summer-love",
+      "title": "Bondi's Barnyard: Summer Love",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Barnyard mascot horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "fnaf-3-halloween-hack",
+      "title": "FNAF 3: Halloween Hack",
+      "creator": "MilesDuck",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Stylized point-and-click FNAF 3 Halloween survival fangame featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/FNAFHH/1104123"
+    },
+    {
+      "id": "meanwhile-at-fredbears",
+      "title": "Meanwhile, at Fredbear's",
+      "creator": "Emir_Breddy",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Fredbear's Diner horror exploring classic lore, featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/Meanwhile_at_Fredbears/1089713"
+    },
+    {
+      "id": "bonds-burgers-together-forever",
+      "title": "Bond's Burgers: Together Forever",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Burger-joint mascot horror featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": null
+    },
+    {
+      "id": "the-fazbear-facility",
+      "title": "The Fazbear Facility",
+      "creator": "Fangame Direct 3",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "Survival horror inside a rebranded Fazbear storage facility, featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/TheFazbearFacility/708822"
+    },
+    {
+      "id": "super-fnaf-2-second-wind",
+      "title": "Super FNAF 2: Second Wind",
+      "creator": "Lylly",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [
+        "Fangame Direct"
+      ],
+      "hook": "16-bit sidescrolling platformer and RPG sequel starring Circus Baby, featured in Fangame Direct 3.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/sfnaf2wonderfulday/263232"
+    },
+    {
+      "id": "blue-moon",
+      "title": "Blue Moon",
+      "creator": "Game Jolt",
+      "platform": "Game Jolt",
+      "release": "Soon-to-Release",
+      "category": "SoonToRelease",
+      "youtubers": [],
+      "hook": "Story-driven chapter horror at Dator's Rock'n'Rave (Nov 1993)—balance work tasks and quests while fending off adaptive animatronics like DJ Dator and Rockin' Randy.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/bluemoon/617219"
+    },
+    {
+      "id": "fazbear-armageddon",
+      "title": "Fazbear Armageddon",
+      "creator": "Wheattt",
+      "platform": "Game Jolt",
+      "release": "Full Game",
+      "category": "Subversive",
+      "youtubers": [],
+      "hook": "Free-roam action-horror FNAF fangame with combat/utility gear and dark facility exploration (v1.0.3).",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": false,
+      "direct_url": "https://gamejolt.com/games/fazbear-armageddon/724114"
+    },
+    {
+      "id": "visiting-fazbears",
+      "title": "Visiting Fazbear's",
+      "creator": "Dani",
+      "platform": "Game Jolt",
+      "release": "Demo / WIP",
+      "category": "Demos",
+      "youtubers": [],
+      "hook": "FNAF fangame inspired by PS1-style horror games with retro VHS atmosphere.",
+      "status": "Todo",
+      "priority": false,
+      "priority_rank": 0,
+      "is_demo": true,
+      "direct_url": "https://gamejolt.com/games/visitingfazbears/595940"
+    }
+  ],
+  "separate_played_section": true
+}
